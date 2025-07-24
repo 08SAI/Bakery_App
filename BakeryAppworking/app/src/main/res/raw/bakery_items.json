@@ -1,0 +1,204 @@
+{
+  "products": {
+    "bread1": {
+      "id": "bread1",
+      "title": "Sourdough Bread",
+      "description": "Traditional sourdough bread made with organic flour and natural starter",
+      "price": 6.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fsourdough.jpg",
+      "category": "Bread",
+      "inStock": true,
+      "rating": 4.8
+    },
+    "bread2": {
+      "id": "bread2",
+      "title": "Baguette",
+      "description": "Classic French baguette with crispy crust and soft interior",
+      "price": 4.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fbaguette.jpg",
+      "category": "Bread",
+      "inStock": true,
+      "rating": 4.6
+    },
+    "bread3": {
+      "id": "bread3",
+      "title": "Whole Wheat Bread",
+      "description": "Healthy whole wheat bread packed with fiber and nutrients",
+      "price": 5.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fwholewheat.jpg",
+      "category": "Bread",
+      "inStock": true,
+      "rating": 4.5
+    },
+    "pastry1": {
+      "id": "pastry1",
+      "title": "Croissant",
+      "description": "Buttery, flaky French pastry in classic crescent shape",
+      "price": 3.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fcroissant.jpg",
+      "category": "Pastry",
+      "inStock": true,
+      "rating": 4.9
+    },
+    "pastry2": {
+      "id": "pastry2",
+      "title": "Chocolate Danish",
+      "description": "Flaky pastry filled with rich chocolate and topped with icing",
+      "price": 4.49,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fchocolatedanish.jpg",
+      "category": "Pastry",
+      "inStock": true,
+      "rating": 4.7
+    },
+    "pastry3": {
+      "id": "pastry3",
+      "title": "Apple Turnover",
+      "description": "Puff pastry filled with spiced apple filling and glazed",
+      "price": 4.29,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fappleturnover.jpg",
+      "category": "Pastry",
+      "inStock": true,
+      "rating": 4.6
+    },
+    "cake1": {
+      "id": "cake1",
+      "title": "Chocolate Cake",
+      "description": "Rich chocolate cake with chocolate ganache frosting",
+      "price": 32.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fchocolatecake.jpg",
+      "category": "Cake",
+      "inStock": true,
+      "rating": 4.9
+    },
+    "cake2": {
+      "id": "cake2",
+      "title": "Red Velvet Cake",
+      "description": "Classic red velvet cake with cream cheese frosting",
+      "price": 34.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fredvelvet.jpg",
+      "category": "Cake",
+      "inStock": true,
+      "rating": 4.8
+    },
+    "cake3": {
+      "id": "cake3",
+      "title": "Carrot Cake",
+      "description": "Moist carrot cake with walnuts and cream cheese frosting",
+      "price": 31.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fcarrotcake.jpg",
+      "category": "Cake",
+      "inStock": true,
+      "rating": 4.7
+    },
+    "cookie1": {
+      "id": "cookie1",
+      "title": "Chocolate Chip Cookie",
+      "description": "Classic cookie with chunks of chocolate",
+      "price": 2.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fchocolatechip.jpg",
+      "category": "Cookie",
+      "inStock": true,
+      "rating": 4.8
+    },
+    "cookie2": {
+      "id": "cookie2",
+      "title": "Oatmeal Raisin Cookie",
+      "description": "Chewy oatmeal cookie with plump raisins",
+      "price": 2.79,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Foatmealraisin.jpg",
+      "category": "Cookie",
+      "inStock": true,
+      "rating": 4.5
+    },
+    "cookie3": {
+      "id": "cookie3",
+      "title": "Double Chocolate Cookie",
+      "description": "Rich chocolate cookie with chocolate chips",
+      "price": 3.29,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fdoublechocolate.jpg",
+      "category": "Cookie",
+      "inStock": true,
+      "rating": 4.7
+    },
+    "bread4": {
+      "id": "bread4",
+      "title": "Cinnamon Raisin Bread",
+      "description": "Sweet bread with cinnamon swirls and raisins",
+      "price": 6.49,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fcinnamonraisin.jpg",
+      "category": "Bread",
+      "inStock": true,
+      "rating": 4.6
+    },
+    "pastry4": {
+      "id": "pastry4",
+      "title": "Almond Croissant",
+      "description": "Buttery croissant filled with almond cream and topped with almonds",
+      "price": 4.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Falmondcroissant.jpg",
+      "category": "Pastry",
+      "inStock": true,
+      "rating": 4.8
+    },
+    "cake4": {
+      "id": "cake4",
+      "title": "Cheesecake",
+      "description": "Creamy New York style cheesecake with graham cracker crust",
+      "price": 36.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fcheesecake.jpg",
+      "category": "Cake",
+      "inStock": true,
+      "rating": 4.9
+    },
+    "cookie4": {
+      "id": "cookie4",
+      "title": "Snickerdoodle",
+      "description": "Soft cookie rolled in cinnamon sugar",
+      "price": 2.89,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fsnickerdoodle.jpg",
+      "category": "Cookie",
+      "inStock": true,
+      "rating": 4.6
+    },
+    "bread5": {
+      "id": "bread5",
+      "title": "Multigrain Bread",
+      "description": "Nutritious bread with multiple grains and seeds",
+      "price": 7.49,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fmultigrain.jpg",
+      "category": "Bread",
+      "inStock": true,
+      "rating": 4.7
+    },
+    "pastry5": {
+      "id": "pastry5",
+      "title": "Pain au Chocolat",
+      "description": "French pastry with chocolate batons",
+      "price": 4.29,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fpainchocolat.jpg",
+      "category": "Pastry",
+      "inStock": true,
+      "rating": 4.8
+    },
+    "cake5": {
+      "id": "cake5",
+      "title": "Tiramisu",
+      "description": "Italian dessert with coffee-soaked ladyfingers and mascarpone cream",
+      "price": 35.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Ftiramisu.jpg",
+      "category": "Cake",
+      "inStock": true,
+      "rating": 4.9
+    },
+    "cookie5": {
+      "id": "cookie5",
+      "title": "Peanut Butter Cookie",
+      "description": "Classic peanut butter cookie with crisscross pattern",
+      "price": 2.99,
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bakeryappworking.appspot.com/o/products%2Fpeanutbutter.jpg",
+      "category": "Cookie",
+      "inStock": true,
+      "rating": 4.7
+    }
+  }
+} 

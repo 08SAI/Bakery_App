@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bakemake</string>
+    <string name="splash_title">Satisfy Your Cravings with Our\nFresh Cakes, Donuts and Pastries</string>
+    <string name="splash_subtitle">Browse the best delicious from top sellers\nGet personalized recommendations\nEnjoy fast, free shipping</string>
+    <string name="get_started">Let\'s Get Started</string>
+    <string name="sign_in">Already have an account? Sign In</string>
+    <string name="see_all">See all</string>
+    <string name="categories">Categories</string>
+    <string name="best_seller">Best Sellers</string>
+    <string name="search_hint">Search anything</string>
+    <string name="cart">Cart</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+</resources>
