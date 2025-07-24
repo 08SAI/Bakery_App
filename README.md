@@ -109,7 +109,7 @@ BakeryAppworking/
 INTERNET – For Firebase communication and image loading.
 
 🎨 Customization Guide
-Change app name in res/values/strings.xml
+Change app name in res/values/strings.xml and add the suitable Google API key for the Auth part.
 
 Update package name in AndroidManifest.xml and Firebase Console
 
